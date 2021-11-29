@@ -1,0 +1,279 @@
+#row_1{
+    height: 60px;
+    position: sticky;
+    top:0;
+    z-index: +999999999999999;
+    background-color: lawngreen;
+    
+}
+@font-face {
+    font-family: "navbarfont";
+    src: url(./AovelSansRounded-rdDL.ttf);
+}
+
+@font-face{
+    font-family: "habiby";
+    src: url(./Newretrostyle3d-ygjm.ttf);
+}
+
+@font-face{
+    font-family: "habiby elawwalany";
+    src: url(./Freedom-10eM.ttf);
+}
+
+
+
+
+#one{
+    font-family: "navbarfont";
+    color:   lightseagreen;
+    font-weight: 700;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#row_2{
+    display: flex;
+    text-align: center;
+    height: 70px;
+    
+}
+#row_3{
+    display: flex;
+    justify-content: center;
+    height: 90px;
+    color: lightseagreen;
+    font-family: "navbarfont";
+    font-size: xx-large;
+}
+
+#row_4{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    height: 150px;
+    color: grey;
+}
+
+#row_5{
+    height: 400px;
+}
+#row_5 p{
+    font-size: x-large;
+    
+}
+
+#two_drop_downs{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#row_6 section{
+    font-family: serif;
+    font-size: 1.625em;
+    color: cyan;
+    font-weight: ;
+}
+
+#image{
+
+    font-size: 1.1em;
+    font-family: "habiby" ;
+}
+
+#row_6{
+    display: flex;
+    height: 250px;
+    
+}
+
+#tuotemp , #gipo , #clinic_cloud{
+    font-family:"habiby elawwalany" ;
+}
+
+.container-fluid {
+    height: 700px;
+    background-color: lightcyan;
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    overflow: hidden;
+    
+       
+}
+
+#first > h3{
+    padding-top: 9%;
+    padding-left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: turquoise;
+}
+
+#first > p{
+    text-align: justify;
+    font-size: medium;
+    padding-top: 3.5%;
+    padding-left: 19%;
+}
+#second{
+    padding-left: 5%;
+
+}
+
+#second img{
+}
+
+
+
+
+#for_cards{
+    padding-right: 15%;
+}
+
+
+
+
+
+
+
+#card_1{
+    margin: 7.5%;
+    
+    height: 250px;
+    width: 228.750;
+    display: flex;
+
+    
+    
+    
+}
+#card_2{
+
+    margin: 7.5%;
+    
+    
+    height: 250px;
+    width: 228.750;
+    
+    
+
+}
+
+#card_3{
+
+    margin: 7.5%;
+    
+    height: 250px;
+    width: 228.750;
+    
+
+
+    
+}
+
+#card_4{
+    margin: 7.5%;
+    height: 250px;
+    width: 228.750;
+    
+
+}
+    
+    
+
+.card-body .card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8125em;
+    text-align: center;
+    color: grey;
+    align-items: inherit;
+
+}
+
+.card-body section{
+
+    font-size: 22px;
+    text-align: center;
+}
+
+#firstfirst{
+    
+    
+    margin-top: 50px;
+    
+    
+}
+
+#secondsecond{
+
+    margin-bottom: 45px;
+    
+    
+}
+
+#thirdthird{
+    
+    margin-top: 15px;
+    
+    
+}
+
+#row_7{
+    
+    margin-top: 70px;
+}
+
+
+#row_7 h4{
+    text-align: center;
+    
+    font-size: 35px;
+    font-weight: lighter;
+    color: aqua;
+    
+}
+
+#row_7 p{
+    text-align: center;
+    color: darkslategrey;
+    margin-top: 20px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+
+
+#seven_card_images{
+    
+    margin-top: 30px;
+    
+}
+
+#seven_card_images .card{
+    width: 311px;
+    height: 280px;
+}
+
+.footer{
+
+    height: 150px;
+    margin-top: 150px;
+    
+}
+
+footer{
+    text-align: center;
+    padding-top: 60px;
+    color: darkslategrey;
+    font-size: 13px;
+}
+
+.last_last{
+    margin-right: 190px;
+    margin-left: 190px;
+}
+
+
+
